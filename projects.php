@@ -1,46 +1,69 @@
-﻿<?php include_once('start.php'); ?>
+﻿<?php include_once('php/start.php'); ?>
 
-<h1>Projets personnels</h1>
+<div class="page-header">
+  <h1>Projets personnels</h1>
+</div>
 
-<hr>
+<div class="panel panel-default">
+  <div class="panel-heading"><a href="http://sandbox.eu.com">sandbox</a></div>
+  <div class="panel-body">
+  	<p>
+  	  Application WebGL de construction libre.
+  	</p>
+	<!--<ul>
+		<li>Client browser Javascript / WebGL</li>
+	</ul>-->
 
-<h3>Homea</h3>
-<p>
-<p>
-Application WebGL de construction libre.
-</p>
-<ul>
-	<li>Client browser Javascript / WebGL</li>
-	<li>link <a href="http://homea.1337.yt" target="_blank">Homea</a></li>
-</ul>
-<table><tr>
-	<td class="thumbnail">
-		<a href="images/gallery/homea_0009.jpg" target="_blank">
-		<img src="images/gallery/homea_0009.min.jpg"><br>
-		preview 01
-		</a>
-	</td>
-	<td class="thumbnail">
-		<a href="images/gallery/homea_0010.jpg" target="_blank">
-		<img src="images/gallery/homea_0010.min.jpg"><br>
-		preview 02
-		</a>
-	</td>
-	<td class="thumbnail">
-		<a href="images/gallery/homea_0011.jpg" target="_blank">
-		<img src="images/gallery/homea_0011.min.jpg"><br>
-		preview 03
-		</a>
-	</td>
-	<td class="thumbnail">
-		<a href="images/gallery/homea_0012.jpg" target="_blank">
-		<img src="images/gallery/homea_0012.min.jpg"><br>
-		preview 04
-		</a>
-	</td>
-</tr></table>
-</p>
-<hr>
+    <div class="thumbnail">
+      <a href="images/gallery/homea_0009.jpg" target="_blank">
+      	<img src="images/gallery/homea_0009.min.jpg" alt="...">
+      	<div class="caption">
+	        <p>Preview 01</p>
+      	</div>
+      </a>
+    </div>
+
+    <div class="thumbnail">
+      <a href="images/gallery/homea_0010.jpg" target="_blank">
+      	<img src="images/gallery/homea_0010.min.jpg" alt="...">
+      	<div class="caption">
+	        <p>Preview 02</p>
+      	</div>
+      </a>
+    </div>
+
+    <div class="thumbnail">
+      <a href="images/gallery/homea_0011.jpg" target="_blank">
+      	<img src="images/gallery/homea_0011.min.jpg" alt="...">
+      	<div class="caption">
+	        <p>Preview 03</p>
+      	</div>
+      </a>
+    </div>
+
+    <div class="thumbnail">
+      <a href="images/gallery/homea_0012.jpg" target="_blank">
+      	<img src="images/gallery/homea_0012.min.jpg" alt="...">
+      	<div class="caption">
+	        <p>Preview 04</p>
+      	</div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="images/gallery/homea_0009.min.jpg" alt="..." style="width:300px; height:200px;">
+      <div class="caption">
+        <h3>Thumbnail label</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <h3>Poker game</h3>
 <p>
@@ -165,4 +188,4 @@ Application WebGL de construction libre.
 </tr></table>
 </p>
 
-<?php include_once('end.php'); ?>
+<?php include_once('php/end.php'); ?>

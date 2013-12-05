@@ -1,4 +1,4 @@
-<?php include_once('start.php'); ?>
+<?php include_once('php/start.php'); ?>
 
 <h1>Contact</h1>
 
@@ -42,4 +42,4 @@ else
 
 ?>
 
-<?php include_once('end.php'); ?>
+<?php include_once('php/end.php'); ?>

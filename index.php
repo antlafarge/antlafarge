@@ -1,1 +1,7 @@
-<?php header('Location: http://ant.lafarge.free.fr/home.php'); ?>
+<?php
+
+include('home.php');
+
+//include('maintenance.php');
+
+?>

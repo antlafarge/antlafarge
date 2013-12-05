@@ -1,4 +1,4 @@
-﻿<?php include_once('start.php'); ?>
+﻿<?php include_once('php/start.php'); ?>
 
 <style>
 .date { color:#0088cc; margin-right:10px; }
@@ -76,4 +76,4 @@
 </ul>
 </p>
 
-<?php include_once('end.php'); ?>
+<?php include_once('php/end.php'); ?>

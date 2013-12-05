@@ -1,39 +1,62 @@
-<?php include_once('start.php'); ?>
+<?php include_once('php/start.php'); ?>
 
-<h1>Antoine Lafarge</h1>
-<h3>Développeur logiciel et web</h3>
+<div class="panel panel-default">
+  <div class="panel-heading">Antoine Lafarge</div>
+  <div class="panel-body">
+    Développeur logiciel et web
+  </div>
+</div>
 
-<p>Actuellement en recherche active d'emploi dans le domaine du multimédia.</p>
+<div class="panel panel-default">
+  <div class="panel-heading">Panel title</div>
+  <div class="panel-body">
+    Actuellement en recherche active d'emploi dans le domaine du multimédia.
+  </div>
+</div>
 
-<p>
-<ul>
-	<li><a href="http://ant.lafarge.free.fr/experiences.php">Expérience professionnelle</a></li>
-	<li><a href="http://ant.lafarge.free.fr/projects.php">projets personnels</a></p></li>
-</ul>
-</p>
+<div class="panel panel-default">
+  <div class="panel-heading">A voir</div>
+  <div class="panel-body">
+	<ul>
+		<li><a href="http://ant.lafarge.free.fr/experiences.php">Expérience professionnelle</a></li>
+		<li><a href="http://ant.lafarge.free.fr/projects.php">projets personnels</a></p></li>
+	</ul>
+  </div>
+</div>
 
-<p>contact : <a href="mailto:ant.lafarge@gmail.com">ant.lafarge@gmail.com</a><!--<img src="images/email.jpg">--></p>
+<div class="panel panel-default">
+  <div class="panel-heading">Compétences</div>
+  <div class="panel-body">
+	<ul>
+		<li>C++, Qt, Ogre3D, SFML, SDL</li>
+		<li>Javascript, webGL, Three.js</li>
+		<li>HTML5, websockets, node.js, WebAudio API</li>
+		<li>PHP, MySQL, Oracle</li>
+		<li>Shaders GPU, plugins 3DSmax</li>
+		<li>MaxScript, Python, ActionScript</li>
+		<li>Visual Studio, QtCreator</li>
+		<li>3dsMax, Photoshop, Flash, Blender</li>
+		<li>Windows, Ubuntu</li>
+	</ul>
+  </div>
+</div>
 
-<h4>Compétences</h4>
-<p>
-<ul>
-	<li>C++, Qt, Ogre3D, SFML, SDL</li>
-	<li>Javascript, webGL, Three.js</li>
-	<li>HTML5, websockets, node.js, WebAudio API</li>
-	<li>PHP, MySQL, Oracle</li>
-	<li>Shaders GPU, plugins 3DSmax</li>
-	<li>MaxScript, Python, ActionScript</li>
-	<li>Visual Studio, QtCreator</li>
-	<li>3dsMax, Photoshop, Flash, Blender</li>
-	<li>Windows, Ubuntu</li>
-</ul>
-</p>
+<div class="panel panel-default">
+  <div class="panel-heading">Diplômes</div>
+  <div class="panel-body">
+	<ul>
+		<li><b>Licence</b> professionnelle Informatique (<i>option <b>Imagerie Numérique</i></b>)
+		<li><b>DUT</b> Informatique (<i>option <b>Imagerie Numérique</i></b>)
+	</ul>
+  </div>
+</div>
 
-<h4>Diplômes</h4>
-<p>
-<ul>
-	<li><b>DUT</b> et <b>Licence</b> professionnelle Informatique (<i>option <b>Imagerie Numérique</i></b>)
-</ul>
-</p>
+<div class="panel panel-default">
+  <div class="panel-heading">Contact</div>
+  <div class="panel-body">
+  	E-mail <a href="mailto:ant.lafarge@gmail.com">ant.lafarge@gmail.com</a>
+  </div>
+</div>
 
-<?php include_once('end.php'); ?>
+
+<?php include_once('php/end.php'); ?>
