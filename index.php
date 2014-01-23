@@ -3,7 +3,7 @@
 <div class="jumbotron">
 	<div class="container">
 		<h1>Antoine Lafarge</h1>
-		<p class="text-justified">Développeur passionné <strong>en recherche d'emploi</strong> dans le domaine de la 3D et du multimédia. Ce site répertorie certains projets personnels, et d'autres sur lesquels j'ai eut l'honneur de travailler.</p>
+		<p class="text-justified">Développeur passionné <strong>en recherche d'emploi</strong> dans le domaine de la 3D et du multimédia. Ce site répertorie des projets sur lesquels j'ai eut l'honneur de travailler, ainsi que des projets personnels.</p>
 		<p>Contact &raquo; <a href="mailto:ant.lafarge@gmail.com">ant.lafarge@gmail.com</a></p>
 	</div>
 </div>

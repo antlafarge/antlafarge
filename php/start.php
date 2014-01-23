@@ -19,7 +19,7 @@ include_once('php/navbar.php');
 <link href="libs/bootstrap-3.0.3/css/bootstrap.css" rel="stylesheet">
 <link rel="icon" type="image/png" href="images/faviconbin.png" />
 <style>
-	body { background-image:url('images/fabric_of_squares_gray_@2X.png'); padding-top:20px; padding-bottom:20px; }
+	body { background-image:url('images/bg/fabric_of_squares_gray_@2X.png'); padding-top:20px; padding-bottom:20px; }
 	.text-justified { text-align:justify; }
 	.panel img { height:90px; }
 </style>
