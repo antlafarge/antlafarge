@@ -17,6 +17,7 @@ include_once('php/navbar.php');
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Antoine Lafarge dev book</title>
 <link href="libs/bootstrap-3.0.3/css/bootstrap.css" rel="stylesheet">
+<link href="libs/font-awesome-4.0.3/css/font-awesome.css" rel="stylesheet">
 <link rel="icon" type="image/png" href="images/faviconbin.png" />
 <style>
 	body { background-image:url('images/bg/fabric_of_squares_gray_@2X.png'); padding-top:20px; padding-bottom:20px; }

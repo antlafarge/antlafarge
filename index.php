@@ -3,8 +3,12 @@
 <div class="jumbotron">
 	<div class="container">
 		<h1>Antoine Lafarge</h1>
-		<p class="text-justified">Développeur passionné <strong>en recherche d'emploi</strong> dans le domaine de la 3D et du multimédia. Ce site répertorie des projets sur lesquels j'ai eut l'honneur de travailler, ainsi que des projets personnels.</p>
-		<p>Contact &raquo; <a href="mailto:ant.lafarge@gmail.com">ant.lafarge@gmail.com</a></p>
+		<p class="text-justified">Développeur passionné <strong>en recherche d'emploi</strong> dans le domaine de la 3D et du multimédia. Ce site répertorie des projets sur lesquels j'ai eut l'honneur de travailler, ainsi que des projets personnels qui me tiennent à coeur.</p>
+		<p>
+			<a class="btn btn-danger" href="mailto:ant.lafarge@gmail.com"><i class="fa fa-envelope"></i> Mail</a>
+			<a class="btn btn-info" href="https://twitter.com/antlafarge" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
+			<a class="btn btn-default" href="https://github.com/antlafarge" target="_blank"><i class="fa fa-github"></i> Github</a>
+		</p>
 	</div>
 </div>
 
