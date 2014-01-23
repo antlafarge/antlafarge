@@ -145,7 +145,7 @@
 	</a>
   </div>
   <div class="panel-footer">
-  	<a href="https://github.com/ant-lafarge/ALLoader" target="_blank">github</a>, <a href="http://ant.lafarge.free.fr/alloader/" target="_blank">Démos</a>
+  	<a href="https://github.com/ant-lafarge/ALLoader" target="_blank">github</a>, <a href="http://ant.lafarge.free.fr/alloader/" target="_blank">démos</a>
   </div>
 </div>
 
