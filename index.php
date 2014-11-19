@@ -15,6 +15,38 @@
 <div class="container">
 
 <div class="panel panel-primary">
+  <div class="panel-heading"><strong>Poker</strong> &raquo; <i>projet personnel</i></div>
+  <div class="panel-body">
+	<p>
+		Jeu de poker multijoueur en HTML5.
+		<ul>
+			<li>Serveur développé en C++</li>
+			<li>Client web développé en PHP / Javascript</li>
+			<li>Prototype client développé avec Ogre3D</li>
+			<li>Réalisé en collaboration avec <a href="http://www.verold.com/">Verold</a></li>
+		</ul>
+  	</p>
+  </div>
+  <div>
+	<a href="images/gallery/pokerAssets01.jpg" target="_blank">
+		<img src="images/gallery/pokerAssets01.min.jpg" title="Some 3D assets">
+	</a>
+	<a href="images/gallery/pokerAssets02.jpg" target="_blank">
+		<img src="images/gallery/pokerAssets02.min.jpg" title="3ds Max scene">
+	</a>
+	<a href="images/gallery/flat.jpg" target="_blank">
+		<img src="images/gallery/flat.min.jpg" title="Scene render">
+	</a>
+	<a href="images/gallery/poker-verold-1.PNG" target="_blank">
+		<img src="images/gallery/poker-verold-1.PNG" title="2nd client prototype">
+	</a>
+  </div>
+  <div class="panel-footer">
+  	Soon (mise en production), <a href="http://vrld.co/6F3wvx/5">Voir la scène</a>
+  </div>
+</div>
+
+<div class="panel panel-primary">
   <div class="panel-heading"><strong>Beloola</strong> &raquo; <i>V-Cult</i></div>
   <div class="panel-body">
   	<p>
@@ -70,62 +102,7 @@
 	</a>
   </div>
   <div class="panel-footer">
-  	<a href="http://homea.1337.eu.com/" target="_blank">homea.1337.eu.com</a>
-  </div>
-</div>
-
-<div class="panel panel-primary">
-  <div class="panel-heading"><strong>Poker</strong> &raquo; <i>projet personnel</i></div>
-  <div class="panel-body">
-	<p>
-		Jeu de poker multijoueur en HTML5.
-		<ul>
-			<li>Serveur développé en C++</li>
-			<li>Client web développé en PHP / Javascript</li>
-			<li>Prototype client développé avec Ogre3D</li>
-		</ul>
-  	</p>
-  </div>
-  <div>
-	<a href="images/gallery/poker01.jpg" target="_blank">
-		<img src="images/gallery/poker01.min.jpg" title="prototype ogre3D">
-	</a>
-	<a href="images/gallery/pokerAssets01.jpg" target="_blank">
-		<img src="images/gallery/pokerAssets01.min.jpg" title="Some 3D assets">
-	</a>
-	<a href="images/gallery/pokerAssets02.jpg" target="_blank">
-		<img src="images/gallery/pokerAssets02.min.jpg" title="3ds Max scene">
-	</a>
-	<a href="images/gallery/flat.jpg" target="_blank">
-		<img src="images/gallery/flat.min.jpg" title="Scene render">
-	</a>
-	<a href="images/gallery/pokerClient00.jpg" target="_blank">
-		<img src="images/gallery/pokerClient00.min.jpg" title="Client 2D - tables">
-	</a>
-	<a href="images/gallery/poker.1337.yt.jpg" target="_blank">
-		<img src="images/gallery/poker.1337.yt.min.jpg" title="Client 2D - game 1">
-	</a>
-	<a href="images/gallery/poker.1337.yt_2.jpg" target="_blank">
-		<img src="images/gallery/poker.1337.yt_2.min.jpg" title="Client 2D - game 2">
-	</a>
-	<a href="images/gallery/pokerServer01.jpg" target="_blank">
-		<img src="images/gallery/pokerServer01.min.jpg" title="Poker table live admin">
-	</a>
-  </div>
-  <div class="panel-footer">
-  	soon
-  </div>
-</div>
-
-<div class="panel panel-primary">
-  <div class="panel-heading"><strong>QtWebsocket</strong> &raquo; <i>projet open source</i></div>
-  <div class="panel-body">
-	<p>
-		Implémentation C++ du protocole réseau websocket dans le Framework Qt.
-  	</p>
-  </div>
-  <div class="panel-footer">
-  	<a href="https://github.com/antlafarge/QtWebsocket" target="_blank">github</a>
+  	<a href="http://homea.sapsion.com/" target="_blank">homea.sapsion.com</a>
   </div>
 </div>
 
@@ -145,7 +122,7 @@
 	</a>
   </div>
   <div class="panel-footer">
-  	<a href="https://github.com/ant-lafarge/ALLoader" target="_blank">github</a>, <a href="http://ant.lafarge.free.fr/alloader/" target="_blank">démos</a>
+  	<a href="https://github.com/ant-lafarge/ALLoader" target="_blank">projet github</a>, <a href="http://ant.lafarge.free.fr/alloader/" target="_blank">démos en ligne</a>
   </div>
 </div>
 
@@ -165,7 +142,19 @@
 	</a>
   </div>
   <div class="panel-footer">
-  	<a href="http://cscz.gamebanana.com/maps/38114" target="_blank">gamebanana</a>
+  	<a href="http://cscz.gamebanana.com/maps/38114" target="_blank">lien gamebanana</a>
+  </div>
+</div>
+
+<div class="panel panel-primary">
+  <div class="panel-heading"><strong>QtWebsocket</strong> &raquo; <i>projet open source</i></div>
+  <div class="panel-body">
+	<p>
+		Implémentation C++ du protocole réseau websocket dans le Framework Qt.
+  	</p>
+  </div>
+  <div class="panel-footer">
+  	<a href="https://github.com/antlafarge/QtWebsocket" target="_blank">projet github</a>
   </div>
 </div>
 
